@@ -1,0 +1,28 @@
+{
+    "Common": {
+        "save": "บันทึก",
+        "next": "ถัดไป",
+        "previous": "ก่อนหน้า"
+    },
+    "Menu": {
+        "dashboard": "แดชอบร์ด",
+        "setting": "การตั้งค่า",
+        "user": "จัดการผู้ใช้"
+    },
+    "HomePage": {
+        "title": "แดชอบร์ด"
+    },
+    "UserManagement": {
+        "title": "จัดการผู้ใช้",
+        "action": {
+            "create": "สร้างผู้ใช้"
+        },
+        "column": {
+            "username": "ชื่อผู้ใช้",
+            "email": "อีเมล์",
+            "fullname": "ชื่อ-นามสกุล",
+            "status": "สถานะ",
+            "action": "ตัวเลือก"
+        }
+    }
+}

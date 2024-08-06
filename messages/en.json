@@ -1,0 +1,28 @@
+{
+    "Common": {
+        "save": "Save",
+        "next": "Next",
+        "previous": "Previous"
+    },
+    "Menu": {
+        "dashboard": "Dashboard",
+        "setting": "Setting",
+        "user": "User Managament"
+    },
+    "HomePage": {
+        "title": "Dashboard"
+    },
+    "UserManagement": {
+        "title": "User Managament",
+        "action": {
+            "create": "Create User"
+        },
+        "column": {
+            "username": "Username",
+            "email": "Email",
+            "fullname": "Fullname",
+            "status": "Status",
+            "action": "Action"
+        }
+    }
+}
